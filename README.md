@@ -54,7 +54,7 @@ You can use items during battles by selecting **Use Item**.
 | **Healing Potion** | Restores 50% of the hero’s maximum HP |
 | **Power Surge** | 2x damage multiplier boosts the next attack’s damage |
 | **Guardian Barrier** | Grants a shield that absorbs incoming 50 attack damage |
-| **Fate Talisman** | Guarantees a lucky strike on the next attack |
+| **Fate Talisman** | Guarantees a max damage strike on the next attack |
 
 Items are **consumed upon use**.
 
@@ -132,7 +132,7 @@ A final **grade (A–F)** is displayed after the game ends.
 
 ## 👤 Author
 
-**Andrei Eon Adducul**  
+**Andrei Eon T. Adducul**  
 Developer of *The Last Hero*  
 Final Requirement – Programming 1  
 St. Paul University Philippines
