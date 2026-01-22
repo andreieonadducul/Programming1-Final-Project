@@ -127,3 +127,12 @@ A final **grade (A–F)** is displayed after the game ends.
 4. Run the game using:
    ```bash
    python the_last_hero.py
+
+---
+
+## 👤 Author
+
+**Andrei Eon Adducul**  
+Developer of *The Last Hero*  
+Final Requirement – Programming 1  
+St. Paul University Philippines
